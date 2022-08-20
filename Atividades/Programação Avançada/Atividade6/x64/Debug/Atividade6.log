@@ -1,0 +1,4 @@
+﻿  Atividade6.cpp
+C:\Users\Wallace\source\repos\Atividades\Programação Avançada\Atividade6\Atividade6.cpp(20,20): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+C:\Users\Wallace\source\repos\Atividades\Programação Avançada\Atividade6\Atividade6.cpp(21,19): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+  Atividade6.vcxproj -> C:\Users\Wallace\source\repos\Atividades\Programação Avançada\x64\Debug\Atividade6.exe
