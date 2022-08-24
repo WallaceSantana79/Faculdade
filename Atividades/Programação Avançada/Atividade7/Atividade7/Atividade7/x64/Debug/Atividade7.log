@@ -1,5 +1,0 @@
-﻿  Atividade7.cpp
-C:\Users\Wallace\source\repos\Atividades\Programação Avançada\Atividade7\Atividade7\Atividade7\Atividade7.cpp(19,29): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
-C:\Users\Wallace\source\repos\Atividades\Programação Avançada\Atividade7\Atividade7\Atividade7\Atividade7.cpp(20,25): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
-C:\Users\Wallace\source\repos\Atividades\Programação Avançada\Atividade7\Atividade7\Atividade7\Atividade7.cpp(21,30): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
-  Atividade7.vcxproj -> C:\Users\Wallace\source\repos\Atividades\Programação Avançada\Atividade7\Atividade7\x64\Debug\Atividade7.exe
