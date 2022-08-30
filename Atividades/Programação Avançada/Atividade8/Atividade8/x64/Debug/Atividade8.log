@@ -1,0 +1,8 @@
+﻿  Atividade8.cpp
+C:\Users\Wallace\source\repos\Atividades\Programação Avançada\Atividade8\Atividade8\Atividade8.cpp(25,22): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\Wallace\source\repos\Atividades\Programação Avançada\Atividade8\Atividade8\Atividade8.cpp(32,36): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Wallace\source\repos\Atividades\Programação Avançada\Atividade8\Atividade8\Atividade8.cpp(35,27): warning C4244: '=': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Wallace\source\repos\Atividades\Programação Avançada\Atividade8\Atividade8\Atividade8.cpp(41,28): warning C4244: '=': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Wallace\source\repos\Atividades\Programação Avançada\Atividade8\Atividade8\Atividade8.cpp(47,21): warning C4244: '=': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Wallace\source\repos\Atividades\Programação Avançada\Atividade8\Atividade8\Atividade8.cpp(48,21): warning C4244: '=': conversão de 'float' para 'int', possível perda de dados
+  Atividade8.vcxproj -> C:\Users\Wallace\source\repos\Atividades\Programação Avançada\Atividade8\x64\Debug\Atividade8.exe
