@@ -1,0 +1,12 @@
+﻿  Teste.cpp
+C:\Users\Wallace\source\repos\Atividades\Programação Avançada\ME1\Teste\Teste.cpp(115,153): warning C4474: 'printf': excesso de argumentos transmitidos para cadeia de caracteres de formato
+C:\Users\Wallace\source\repos\Atividades\Programação Avançada\ME1\Teste\Teste.cpp(115,153): message : espaços reservados e seus parâmetros esperam 3 argumentos variadic, mas 4 foram fornecidos
+C:\Users\Wallace\source\repos\Atividades\Programação Avançada\ME1\Teste\Teste.cpp(118,159): warning C4474: 'printf': excesso de argumentos transmitidos para cadeia de caracteres de formato
+C:\Users\Wallace\source\repos\Atividades\Programação Avançada\ME1\Teste\Teste.cpp(118,159): message : espaços reservados e seus parâmetros esperam 3 argumentos variadic, mas 4 foram fornecidos
+C:\Users\Wallace\source\repos\Atividades\Programação Avançada\ME1\Teste\Teste.cpp(132,145): warning C4474: 'printf': excesso de argumentos transmitidos para cadeia de caracteres de formato
+C:\Users\Wallace\source\repos\Atividades\Programação Avançada\ME1\Teste\Teste.cpp(132,145): message : espaços reservados e seus parâmetros esperam 3 argumentos variadic, mas 4 foram fornecidos
+C:\Users\Wallace\source\repos\Atividades\Programação Avançada\ME1\Teste\Teste.cpp(135,151): warning C4474: 'printf': excesso de argumentos transmitidos para cadeia de caracteres de formato
+C:\Users\Wallace\source\repos\Atividades\Programação Avançada\ME1\Teste\Teste.cpp(135,151): message : espaços reservados e seus parâmetros esperam 3 argumentos variadic, mas 4 foram fornecidos
+C:\Users\Wallace\source\repos\Atividades\Programação Avançada\ME1\Teste\Teste.cpp(210,153): warning C4474: 'printf': excesso de argumentos transmitidos para cadeia de caracteres de formato
+C:\Users\Wallace\source\repos\Atividades\Programação Avançada\ME1\Teste\Teste.cpp(210,153): message : espaços reservados e seus parâmetros esperam 3 argumentos variadic, mas 4 foram fornecidos
+  Teste.vcxproj -> C:\Users\Wallace\source\repos\Atividades\Programação Avançada\ME1\x64\Debug\Teste.exe
