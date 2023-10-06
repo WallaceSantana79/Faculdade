@@ -1,11 +1,3 @@
-/*
-Universidade Salgado de Oliveira - UNIVERSO
-Trabalho para fins avaliativos da disciplina de Estrturas de Dados I
-Agenda Telefônica
-Linguagem: C++
-Compilador: DEV C++
-*/
-
 #include<iostream>
 #include<stdio.h>
 #include<stdlib.h>
